@@ -1,0 +1,1 @@
+cp -rf /mnt/certificates/* /etc/loolwsd/
