@@ -20,5 +20,7 @@ apt-get -y install loolwsd code-brand collaboraoffice6.0-dict* collaboraofficeba
 # Install inotifywait and killall to automatic restart loolwsd, if loolwsd.xml changes
 apt-get -y install inotify-tools psmisc
 
+apt-get -y istall wget
+
 # Cleanup
 rm -rf /var/lib/apt/lists/*
