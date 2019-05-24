@@ -21,6 +21,7 @@ apt-get -y install loolwsd code-brand collaboraoffice6.0-dict* collaboraofficeba
 apt-get -y install inotify-tools psmisc
 
 apt-get -y install wget
+apt-get -y install nano
 
 # Cleanup
 rm -rf /var/lib/apt/lists/*
